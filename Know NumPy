@@ -1,0 +1,17 @@
+-> Legacy C/C++/FORTRAN code can be used easily
+-> Numpy provides easy to use API
+
+N-dimensional array
+=> A multidimensional array ndarray
+=> Allows operations on whole blocks of data to be performed using similar syntax as the scalar elements
+=>A multidimensional container for homogeneous data
+
+Creating ndarray:
+=> Using a list to initialize
+=> import numpy as np
+=> data1=[1,3,2.5,-2,1]
+=> arr1=np.array(data1)
+   arr1
+Out[6]: array([ 1. , 3. , 2.5, -2. , 1.
+])
+
