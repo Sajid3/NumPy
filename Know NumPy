@@ -23,3 +23,9 @@ Using a tuple to initialize
 Out[6]: array([ 1. , 3. , 2.5, -2. , 1.
 ])
 
+Using an array to initialize
+=> import numpy as np
+   arr3=np.array(arr1)
+   arr3
+Out[6]: array([ 1. , 3. , 2.5, -2. , 1.
+])
