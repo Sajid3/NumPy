@@ -12,6 +12,8 @@ Besides its obvious scientific uses, NumPy can also be used as an efficient mult
 
 
 ## Steps to use this repo
+0. Use Step files to start learning NumPy. 
+
 1.There will be files with details of the code and its output to Learn.
 
 2.Some files with Tasks with there solutions.
