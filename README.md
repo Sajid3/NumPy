@@ -24,7 +24,11 @@ Besides its obvious scientific uses, NumPy can also be used as an efficient mult
 
 ## How to execute ipython files :
 Step 1. Install Anaconda. https://www.anaconda.com/
+
 Step 2. Open Anaconda and inside it there is a Jupyter Notebook install it.
+
 Step 3. Launch Jupyter Notebook.
+
 Step 4. Upload the repo files.
+
 Step 5. Start Learning / Revising.
