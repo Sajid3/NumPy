@@ -12,10 +12,19 @@ Besides its obvious scientific uses, NumPy can also be used as an efficient mult
 
 
 ## Steps to use this repo
-0. Use Step files to start learning NumPy. 
 
-1.There will be files with details of the code and its output to Learn.
+00. Use ipython files to start learning NumPy. 
 
-2.Some files with Tasks with there solutions.
+01. There will be files with details of the code and its output to Learn.
 
-3.A Quick Recall Guide
+02. Some files with Tasks with there solutions.
+
+03. A Quick Recall Guide
+
+
+## How to execute ipython files :
+Step 1. Install Anaconda. https://www.anaconda.com/
+Step 2. Open Anaconda and inside it there is a Jupyter Notebook install it.
+Step 3. Launch Jupyter Notebook.
+Step 4. Upload the repo files.
+Step 5. Start Learning / Revising.
